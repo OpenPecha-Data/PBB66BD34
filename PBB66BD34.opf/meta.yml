@@ -1,0 +1,39 @@
+id: PBB66BD34
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG15897
+  instance_id: http://purl.bdrc.io/resource/IE7499
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཆོས་འབྱུང་མཁས་པའི་དགའ་སྟོན།
+  alt_title:
+    en-x-mixed:
+    - Dam paʼi chos kyi ʼkhor lo bsgyur ba rnams kyi byuṅ ba gsal bar byed pa mkhas
+      paʼi dgaʼ ston /Dpaʼ-bo Gtsug-lag-phreṅ-bas brtsams pa.
+  author: http://purl.bdrc.io/resource/P319
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    16b5262683d14504b53298c7faf716c8:
+      title: པོད ༢་ཆོས་འབྱུང་མཁས་པའི་དགའ་སྟོན
+      volume_number: 2
+      base_file: UT7499_I1KG5746_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD53DC50E1819B67D
+      image_group: I1KG5746
+      quality: Low
+    6d53687e68504cea8e177d29afcda8a5:
+      title: པོད ༡་ཆོས་འབྱུང་མཁས་པའི་དགའ་སྟོན
+      volume_number: 1
+      base_file: UT7499_I1KG5745_0000.txt
+      reference: http://purl.bdrc.io/resource/VL46D995CB2334E32C
+      image_group: I1KG5745
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW7499
+  - http://purl.bdrc.io/resource/W7499
+  ocr_software: Namsel
+created_at: '2021-12-31T08:27:37.416831'
+last_modified_at: '2021-12-31T08:27:37.416838'
